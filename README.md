@@ -2,6 +2,8 @@
 
 Mock E-Com Cart is a production-ready full-stack shopping cart experience built for the Vibe Commerce screening. It showcases a modern React frontend, an Express API backed by MongoDB, and Fake Store API powered catalog seeding.
 
+Deploy Link : https://shoppingcart-7yso.onrender.com
+
 ## 🚀 Tech Stack
 
 - **Frontend:** React (Vite), React Router, TailwindCSS, Axios, React Hot Toast
